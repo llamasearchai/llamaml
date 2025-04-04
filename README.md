@@ -174,7 +174,7 @@ evaluation:
 
 ## Documentation
 
-For more detailed documentation, visit our [documentation site](https://llamaml.readthedocs.io/).
+For more detailed documentation, visit our [documentation site](https://llamasearch.ai
 
 ## Examples
 
